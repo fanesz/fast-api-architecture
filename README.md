@@ -5,7 +5,7 @@ Simple architecture without database implementation yet.
 ---
 
 core package:
-`pip install fastapi uvicorn pydantic[email]`
+`pip install requirements.txt`
 
 copas `example.env` to `.env`
 
